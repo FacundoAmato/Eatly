@@ -1,0 +1,272 @@
+
+html {
+    scroll-behavior: smooth;
+}
+
+.img_mujer {
+height: 275px;
+width: 425px;
+}
+
+.btc {
+    height: 60px;
+    width: 60px;
+    display: block;
+    margin: auto;
+}
+
+.pf1{
+    height: 200px;
+    width: 200px;
+}
+
+.pf2{
+    height: 200px;
+    width: 200px;
+}
+
+.pf3{
+    height: 200px;
+    width: 200px;
+}
+
+.pf4{
+    height: 200px;
+    width: 200px;
+}
+
+.pf5{
+    height: 200px;
+    width: 200px;
+}
+
+.pf6{
+    height: 200px;
+    width: 200px;
+}
+
+.rutinahc{
+    height: 200px;
+    width: 350px;
+}
+
+.face{
+    height: 45px;
+    width: 45px;
+}
+
+.ig{
+    height: 50px;
+    width: 50px;
+}
+ * {
+    font-family: "Lato", cursive;
+}
+
+.logoNavbar{
+    width: 80px;
+}
+
+.nav-item:hover{
+    background-color: black;
+}
+
+.header-img{
+    margin-top: 10px !important;
+    margin-bottom: 10px;
+    width: 800px;
+    margin:auto;
+    display:block;
+}
+
+.separadores{
+    background-color: rgb(26, 26, 26);
+}
+
+.separadores > h3{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.quienes-somos{
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.como-funciona{
+    width: 100%;
+    height: 200px;
+    margin-bottom: 130px;
+    background: none;
+}
+
+.parrofo-1{
+    width: 50%;
+    float: left;
+    
+}
+
+.parrofo-1 > p{
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.parrofo-2{
+    width: 50%;
+}
+
+.parrofo-2 > h2{
+    text-align: center !important;
+}
+
+#carouselControls{
+    display: block;
+    margin: auto;
+}
+
+#entrenadores > p{
+    font-size: 20px;
+    text-align: center;
+}
+
+#ejercicios h4{
+    text-align: center;
+}
+
+#ejercicios > p{
+    text-align: center;
+    font-size: 20px;
+}
+
+#ejercicios{
+
+    background-color: white;
+}
+
+#nutricionistas, .formulario{
+    
+    background-color: white !important;
+}
+
+.formulario{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.card-1{
+    float: left;
+}
+.contenedor-cards{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.card-1, .card-2{
+    height: 350px !important;
+    margin: 20px;
+}
+
+#opinion p {
+    text-align: center;
+    font-size: 20px;
+}
+
+.accordion{
+    display: block;
+    margin: auto;
+}
+
+.stars{
+    width: 80px;
+    display: block;
+    margin: auto;
+}
+
+.card .nombre{
+    font-weight: bold;
+}
+
+.div-1{
+    width: 60%;
+    margin-left: 20%;
+    height: 300px;
+    border: 3px solid rgb(27, 27, 27);
+}
+
+.panel-izq, .panel-der{
+    width: 45%;
+    
+}
+
+.panel-izq img{
+    
+    width: 83%;
+}
+
+.panel-der p{
+    margin-top: -160px;
+    font-size: 20px;
+
+}
+
+.panel-der {
+    margin-left: 50%;
+}
+
+
+.formulario form{
+    display: block;
+    margin: auto;   
+}
+
+.seguinos{
+    
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.footer-2{
+    background-color: rgb(29, 29, 29);
+}
+
+.seguinos{
+    color: white;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-2 .contenedor{
+    width: fit-content;
+    display: block;
+    margin: auto;
+}
+
+.contenedor-1{
+    display: flex;
+    justify-content: end;
+}
+
+.contenedor-1 img{
+    padding-top: 20px;
+    padding: 10px;
+    width: 200px;
+}
+
+.accordion{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.parallax{
+    background-color: blue;
+}
